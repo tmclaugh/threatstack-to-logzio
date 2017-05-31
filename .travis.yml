@@ -18,7 +18,6 @@ deploy:
     secure: fB2QcJwoZ6XFT4qfc5cgrE4ot3cAMuMeZg35nh+0+KNDbxCvZ2Vbx2kZg8dPOjzZZC3BKoqxHuHa+vgWr1ru5kLxmmx3lTuU74GSLTCP4ktGCUrSPn4zaf2Q+6wiHWKLemHGG872MJ6p5eddogaK0tjw0oq+/SH4phKLk0UZtSdnYG+iMPATdT5cw4y/nlgRb07zMk9isvqCT6SuV4EcMCaMc9e8fdMHy/K9Q009xF/3kx4mauacyIJizy+dtVM6u37fe6NCI9QARi2txzVn518b7X6wBWiEOqk7rSp/ZNFqFKLEtEhepOzi+zGNb3pfPntm/41brQ4KhMbjVIC/+STj+ocIbQIlWzRMnXtBVXUj3OPTF+G5FhEle2cMarG4nR2Eo7ZVf54vf1sQRtzEH05efLiof4LZhBAmYU9UrgHbh7XvF+MNZU8Llf61iD7rHmLGIXWIF4LhqlZy9qCEK4o844o7492CsEuTWxG3R8I+dXL/cR7L3Qg3LHPNfJ4NcYeC+2Ux6Lp1Bwej8OLsNhIqqlwYiB2g601ttby9VWg7WTgs4HsQgTvr1QCLU6tzJv/Ql9uvycMV6yAfmQjOjAi2lgLAGhuY5vyTNOBsH5YSvKCDAzAwf7eUm5wngZw5NKJXW6V1tZWKepQJlCkMOPgQuNpRI2VcXBR29XsQyNE=
   bucket: ts-demo-lamba-deploys
   local-dir: dist
-  upload-dir: 'no'
   acl: public_read
   on:
     repo: threatstack/threatstack-to-logzio
