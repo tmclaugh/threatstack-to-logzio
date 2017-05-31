@@ -1,4 +1,5 @@
-# threatstack-to-logzio
+# threatstack-to-logzio [![Build Status](https://travis-ci.org/threatstack/threatstack-to-logzio.svg?branch=master)](https://travis-ci.org/threatstack/threatstack-to-logzio)
+
 Takes a Threat Stack web hook request and sends it to Logz.io.
 
 **NOTE: This code is provided as an example and without support for creating services that use Threat Stack webhooks to perform actions within an environment.**
