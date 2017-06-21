@@ -9,7 +9,7 @@ Before deploying be sure that you've deployed and setup the [threatstack-to-aws-
 
 This service can be deployed to AWS running on Lambda behind AWS API gateway by clicking "Launch Stack".
 [![Launch CloudFormation
-Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=threatstack-to-logzio&templateURL=https://s3.amazonaws.com/ts-demo-lamba-deploys/threatstack-to-logzio.json)
+Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=threatstack-to-logzio&templateURL=https://s3.amazonaws.com/ts-demo-lambda-deploys/threatstack-to-logzio.json)
 
 You will need the following information:
 * Threat Stack API key
